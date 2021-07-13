@@ -1,0 +1,10 @@
+C:\Users\Денис\source\repos\EncryptionProject\bin\Release\encryptionProject.exe.config
+C:\Users\Денис\source\repos\EncryptionProject\bin\Release\encryptionProject.exe
+C:\Users\Денис\source\repos\EncryptionProject\bin\Release\encryptionProject.pdb
+C:\Users\Денис\source\repos\EncryptionProject\obj\Release\encryptionProject.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\EncryptionProject\obj\Release\encryptionProject.Form1.resources
+C:\Users\Денис\source\repos\EncryptionProject\obj\Release\encryptionProject.Properties.Resources.resources
+C:\Users\Денис\source\repos\EncryptionProject\obj\Release\encryptionProject.csproj.GenerateResource.cache
+C:\Users\Денис\source\repos\EncryptionProject\obj\Release\encryptionProject.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\EncryptionProject\obj\Release\encryptionProject.exe
+C:\Users\Денис\source\repos\EncryptionProject\obj\Release\encryptionProject.pdb
